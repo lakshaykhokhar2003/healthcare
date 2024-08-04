@@ -26,7 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Information Page
 
 ![image](/public/screenshots/info%20page.png)
-
 ![image](/public/screenshots/info%20bottom.png)
 
 ### Appointment Page
